@@ -9,7 +9,6 @@
       <Release/>
     </Buttons>
     <Selection>
-      <StripableView id="2662"/>
       <Marker id="290" start="1"/>
     </Selection>
     <EditorLocations clock-mode="BBT"/>
